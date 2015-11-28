@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+-Cut down the time required to accomplish the task.
+-Made the code easier to identify.
+-increased confidence that all deltas were found.
+
